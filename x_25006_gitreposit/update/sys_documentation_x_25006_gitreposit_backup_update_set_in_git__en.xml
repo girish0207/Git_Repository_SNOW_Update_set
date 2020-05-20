@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Backup Update set in GIT" language="en" table="x_25006_gitreposit_backup_update_set_in_git">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Backup Update set in GIT</label>
+            <language>en</language>
+            <name>x_25006_gitreposit_backup_update_set_in_git</name>
+            <plural>Backup Update set in GITs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 08:33:49</sys_created_on>
+            <sys_id>fbf5dac32ff0101037bafcecf699b615</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Backup Update set in GIT</sys_name>
+            <sys_package display_value="GitRepository" source="x_25006_gitreposit">5d15de832ff0101037bafcecf699b60d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GitRepository">5d15de832ff0101037bafcecf699b60d</sys_scope>
+            <sys_update_name>sys_documentation_x_25006_gitreposit_backup_update_set_in_git__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 08:33:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
